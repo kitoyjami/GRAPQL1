@@ -1,0 +1,21 @@
+{
+    "courses" : [
+        {
+            "id":1,
+            "name": "Eddy",
+            "author": "author 1"
+        },
+        {
+            "id":2,
+            "name": "Eddy2",
+            "author": "author 2"    
+
+        },
+        {
+            "id":3,
+            "name": "Eddy3",
+            "author": "author 3"    
+
+        }
+    ]
+}
